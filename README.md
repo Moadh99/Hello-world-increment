@@ -9,4 +9,4 @@
 ```
 
 
-**Hello World!** with increment button and text color changes and increment the number once the button clicked!
+<ins>**Hello World!**</ins> with increment button and text color changes and increment the number once the button clicked!
