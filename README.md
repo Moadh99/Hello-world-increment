@@ -1,24 +1,11 @@
-# README
+# Practcing rails skills by small basic Project using:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*Ruby 3.1.2
+*Rails 7.1.2
+*Stimulus
+*Turbo
+*Tailwindcss
+*Hotwire
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Hello World!** with increment button and text color changes and increment the number once the button clicked!
